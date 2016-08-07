@@ -1,0 +1,84 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala -> D:\java\sparkws\sparkSample\target\test-classes
+compile options:
+9 items
+0 -> -javabootclasspath
+1 -> D:\java\jdk1.8.0_92\jre\lib\resources.jar;D:\java\jdk1.8.0_92\jre\lib\rt.jar;D:\java\jdk1.8.0_92\jre\lib\jsse.jar;D:\java\jdk1.8.0_92\jre\lib\jce.jar;D:\java\jdk1.8.0_92\jre\lib\charsets.jar;D:\java\jdk1.8.0_92\jre\lib\jfr.jar;D:\java\jdk1.8.0_92\jre\lib\ext\access-bridge-64.jar;D:\java\jdk1.8.0_92\jre\lib\ext\cldrdata.jar;D:\java\jdk1.8.0_92\jre\lib\ext\dnsns.jar;D:\java\jdk1.8.0_92\jre\lib\ext\jaccess.jar;D:\java\jdk1.8.0_92\jre\lib\ext\jfxrt.jar;D:\java\jdk1.8.0_92\jre\lib\ext\localedata.jar;D:\java\jdk1.8.0_92\jre\lib\ext\nashorn.jar;D:\java\jdk1.8.0_92\jre\lib\ext\sunec.jar;D:\java\jdk1.8.0_92\jre\lib\ext\sunjce_provider.jar;D:\java\jdk1.8.0_92\jre\lib\ext\sunmscapi.jar;D:\java\jdk1.8.0_92\jre\lib\ext\sunpkcs11.jar;D:\java\jdk1.8.0_92\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> D:\java\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -target:jvm-1.7
+7 -> -encoding
+8 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> D:\java\sparkws\sparkSample\target\test-classes\samples\AppTest.class
+binary dependencies:
+2 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> D:\java\.m2\repository\junit\junit\4.11\junit-4.11.jar
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> D:\java\jdk1.8.0_92\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> samples.AppTest
+used names:
+0 items
+product stamps:
+1 items
+D:\java\sparkws\sparkSample\target\test-classes\samples\AppTest.class -> lastModified(1470533651113)
+source stamps:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> hash(8e9b0444dbcf0106a7ba2513f788f918b1337f70)
+binary stamps:
+2 items
+D:\java\.m2\repository\junit\junit\4.11\junit-4.11.jar -> lastModified(1447339410899)
+D:\java\jdk1.8.0_92\jre\lib\rt.jar -> lastModified(1466822022992)
+class names:
+2 items
+D:\java\.m2\repository\junit\junit\4.11\junit-4.11.jar -> org.junit.Assert
+D:\java\jdk1.8.0_92\jre\lib\rt.jar -> java.lang.Object
+internal apis:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDqb8PAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAAdAACKClzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAEVGVzdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgA7dAAFanVuaXRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4APHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD3NhbXBsZXMuQXBwVGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADm9yZy5qdW5pdC5UZXN0c3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBQeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgAvc3EAfgBPAHBzcQB+AFRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgAwc3EAfgBPAHBzcQB+AFR1cQB+ABAAAAAAc3EAfgBPAHBzcQB+AFR1cQB+ABAAAAAAc3EAfgBPAHBzcQB+AFR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAAEbGFuZ3EAfgBCc3EAfgAtdAADQW55c3EAfgAzc3EAfgA2dXEAfgA5AAAAAnNxAH4AO3QABXNjYWxhcQB+AEJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdzYW1wbGVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWYqLD93VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AC9EOlxqYXZhXHNwYXJrd3Ncc3BhcmtTYW1wbGVcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAKkQ6XGphdmFcc3Bhcmt3c1xzcGFya1NhbXBsZVxzcmNcdGVzdFxzY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUjpsERNvPAQanuiUT94j5GLEzf3A=
+external apis:
+0 items
+source infos:
+1 items
+D:\java\sparkws\sparkSample\src\test\scala\samples\junit.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVmKiw/d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAL0Q6XGphdmFcc3Bhcmt3c1xzcGFya1NhbXBsZVx0YXJnZXRcdGVzdC1jbGFzc2VzdAAqRDpcamF2YVxzcGFya3dzXHNwYXJrU2FtcGxlXHNyY1x0ZXN0XHNjYWxh
